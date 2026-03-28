@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>College E-Notice Board</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="center">
+
+<div class="card">
+    <h2>College E-Notice Board</h2>
+    <p>Digital notice management system</p>
+
+    <div class="tabs">
+        <button onclick="setRole('student')" id="studentTab">Student</button>
+        <button onclick="setRole('admin')" id="adminTab">Admin</button>
+    </div>
+
+    <input type="text" placeholder="Email / Username" id="username">
+    <input type="password" placeholder="Password" id="password">
+
+    <button onclick="login()" class="btn">Login</button>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

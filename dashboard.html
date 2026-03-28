@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h2>College E-Notice Board</h2>
+    <button onclick="logout()">Logout</button>
+</header>
+
+<h2>Welcome, Student!</h2>
+
+<input type="text" id="search" placeholder="Search notices..." onkeyup="searchNotice()">
+
+<div class="filters">
+    <button onclick="filter('all')">All</button>
+    <button onclick="filter('Exam')">Exam</button>
+    <button onclick="filter('Event')">Event</button>
+    <button onclick="filter('Placement')">Placement</button>
+</div>
+
+<div id="notices"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
