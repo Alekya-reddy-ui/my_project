@@ -106,10 +106,8 @@ http://127.0.0.1:5000/
 
 ## 📸 Screenshots
 
-```
-![image alt](https://github.com/Alekya-reddy-ui/my_project/blob/ec16f5e9cda4f774b0450d833cae7d578145fe81/Screenshot%202026-03-27%20215811.png)
-```
 ![image alt](https://github.com/Alekya-reddy-ui/my_project/blob/419260d1cb2a300f9ab5670d81e22d272da6e379/Screenshot%202026-03-27%20215938.png)
+![image alt]()
 ---
 
 ## 🔮 Future Enhancements
