@@ -106,12 +106,8 @@ http://127.0.0.1:5000/
 
 ## 📸 Screenshots
 
-*Add screenshots here to make your project more attractive*
-
-Example:
-
 ```
-![Home Page](images/home.png)
+![image alt](https://github.com/Alekya-reddy-ui/my_project/blob/ec16f5e9cda4f774b0450d833cae7d578145fe81/Screenshot%202026-03-27%20215811.png)
 ```
 
 ---
